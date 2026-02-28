@@ -113,3 +113,6 @@ export default function About() {
     </section>
   );
 }
+
+
+// this is my about page
